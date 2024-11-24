@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFrameworks>netstandard2.0;net8.0;net462</TargetFrameworks>
 		<LangVersion>13.0</LangVersion>
@@ -20,6 +20,7 @@
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<Version>1.0.0</Version>
 		<PackageIcon>PackageLogo.png</PackageIcon>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 	</PropertyGroup>
 
 	<ItemGroup>
