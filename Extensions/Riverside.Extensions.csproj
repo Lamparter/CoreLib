@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0;net462;net8.0</TargetFramework>
 		<LangVersion>13.0</LangVersion>
@@ -10,7 +10,7 @@
 		<Company>Riverside Valley Corporation</Company>
 		<Copyright>Copyright (c) 2024 Riverside Valley Corporation</Copyright>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<RepositoryUrl>https://github.com/RiversideValley/Standard</RepositoryUrl>
+		<RepositoryUrl>https://github.com/RiversideValley/Extensions</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>helpers; sdk; riverside</PackageTags>
 		<Description>Helpful tools and classes for building modern apps.</Description>
