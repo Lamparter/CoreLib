@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> `Riverside.Private` is now part of [CubeKit](https://github.com/RiversideValley/Toolkit).
+> Please see [the tracking issue](https://github.com/RiversideValley/Toolkit/issues/8) for more information on the change and how to upgrade.
+
 # CoreLib
 
 #### Helpful tools and classes for building modern apps.
